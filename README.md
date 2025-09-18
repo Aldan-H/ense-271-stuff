@@ -1,3 +1,3 @@
 # ense-271-stuff
 
-ense thing
+My ENSE Lab Github portfolio
